@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>all_in_one.recArray</StartupObject>
+    <StartupObject>all_in_one.arrayList</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="arrayList.cs" />
     <Compile Include="bitwise.cs" />
     <Compile Include="jaggedAr.cs" />
     <Compile Include="recArray.cs" />
