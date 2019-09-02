@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>all_in_one.jaggedAr</StartupObject>
+    <StartupObject>all_in_one.recArray</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="bitwise.cs" />
     <Compile Include="jaggedAr.cs" />
+    <Compile Include="recArray.cs" />
     <Compile Include="switchFall.cs" />
     <Compile Include="boxingUn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
