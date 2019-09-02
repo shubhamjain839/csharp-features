@@ -1,0 +1,7 @@
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\bin\Debug\all-in-one.exe.config
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\bin\Debug\all-in-one.exe
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\bin\Debug\all-in-one.pdb
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\obj\Debug\all-in-one.csprojAssemblyReference.cache
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\obj\Debug\all-in-one.csproj.CoreCompileInputs.cache
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\obj\Debug\all-in-one.exe
+C:\Users\Shubham Jain\source\repos\all-in-one\all-in-one\obj\Debug\all-in-one.pdb
