@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>all_in_one.arrayList</StartupObject>
+    <StartupObject>all_in_one.stringmut</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -50,6 +50,8 @@
     <Compile Include="bitwise.cs" />
     <Compile Include="jaggedAr.cs" />
     <Compile Include="recArray.cs" />
+    <Compile Include="stringIm.cs" />
+    <Compile Include="stringmut.cs" />
     <Compile Include="switchFall.cs" />
     <Compile Include="boxingUn.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
