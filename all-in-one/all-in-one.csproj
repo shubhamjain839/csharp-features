@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>all_in_one.stringmut</StartupObject>
+    <StartupObject>all_in_one.dele</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,8 @@
   <ItemGroup>
     <Compile Include="arrayList.cs" />
     <Compile Include="bitwise.cs" />
+    <Compile Include="dele.cs" />
+    <Compile Include="inher.cs" />
     <Compile Include="jaggedAr.cs" />
     <Compile Include="recArray.cs" />
     <Compile Include="stringIm.cs" />
